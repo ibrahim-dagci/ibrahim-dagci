@@ -1,4 +1,4 @@
-# Selam, ben İbrahim 👋
+# Selam, ben İbrahim Dağcı 👋
 
 Kod yazıyorum, bir şeyler üretiyorum, arada bir de bozup tekrar yapıyorum. Mobil, web, backend, ne çıkarsa. ☕
 
